@@ -5,7 +5,7 @@ I have over 6 years of experience building responsive, user-centric web applicat
 
 ### 💻 Technical Expertise
 
-- Favorite languages and frameworks: JavaScript, TypeScript, React, and Angular 2+.
+- Favorite languages and frameworks: JavaScript, TypeScript, React.
 - Other tools: Vitest, React Testing Library, Copilot, Datadog, Figma.
 
 ### 🌐 Languages
